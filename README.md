@@ -24,7 +24,7 @@ You can contact me on Discord, Colonel Wys#0001
 Yeah, I might do a rework with better efficiency
 #
 
-> Tap'^Cheat est un cheat fait en Js, utilisant NodeJs avec Puppeteer.
+> Tap'Cheat est un cheat fait en Js, utilisant NodeJs avec Puppeteer.
 *JE SAIS !* C'est vraiment peut efficace, et vraiment mal codé.
 C'est probablement mon pire projet. Je n'ai mis aucun effort dedans, étant donné que j'ai réalisé ce projet en quelques heures, alors que je m'enuiyait...
 
@@ -48,4 +48,4 @@ Vous pouvez me contacter sur Discord, Colonel Wys#0001
 Ouais, je vais peut-être faire une version refaite, plus efficace...
 #
 
-// DISCLAMER : This is meant for educationnal purposes only, I would'nt be responsible for what you do with it.
+// **DISCLAMER : This is meant for educationnal purposes only, I would'nt be responsible for what you do with it.**
