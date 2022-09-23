@@ -78,6 +78,7 @@ fs.readFile(__dirname+'/tapcheat.txt', 'utf8', function(err, data){
       if(error.message.includes("TypeError: Cannot read properties of null (reading 'textContent')") || error.message.includes("TypeError: Cannot read properties of null (reading 'innerHTML')") || error.message.includes("Cannot read properties of null (reading 'evaluate')")){
         stop = true;
       console.warn(`${p}Exercice terminé.`)
+        await waitFor(10000)
       process.exit(0)
 
       } else console.error(error.message)
