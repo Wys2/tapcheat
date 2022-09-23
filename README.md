@@ -1,2 +1,1 @@
-# tapcheat
-A Cool cheat for Tap'Touche
+## Tap'Cheat
