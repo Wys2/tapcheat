@@ -3,6 +3,7 @@
 > Tap'Cheat is a cheat made in Js, Using NodeJs with Puppeteer
 *I KNOW !* It is absolutely inefficient, and very badly coded.
 This might be my worst project. I didn't put any effort, it was just a project I made because I was bored during few hours...
+Average 422W/m (Words by minute) tested on a toaster.
 
 Note : This only work with school edition. In .env, type your school url (Like "myschool.taptouche.com")
 
@@ -29,6 +30,7 @@ Yeah, I might do a rework with better efficiency
 > Tap'Cheat est un cheat fait en Js, utilisant NodeJs avec Puppeteer.
 *JE SAIS !* C'est vraiment peut efficace, et vraiment mal codé.
 C'est probablement mon pire projet. Je n'ai mis aucun effort dedans, étant donné que j'ai réalisé ce projet en quelques heures, alors que je m'enuiyait...
+422M/m (Mots par minute) testé sur un pc de merde.
 
 Note : Cela ne marche qu'avec l'édition scolaire. Dans le .env, entrez votre url scolaire (Par exemple "monecole.taptouche.com")
 
