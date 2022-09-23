@@ -1,0 +1,26 @@
+{
+  "name": "tapcheat",
+  "version": "1.2.0",
+  "description": "A Cool cheat for taptouche",
+  "main": "tapcheat.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wys2/tapcheat.git"
+  },
+  "keywords": [
+    "cheat",
+    "taptouche"
+  ],
+  "dependencies": {
+    "better-console": "^1.0.1",
+    "dotenv": "^16.0.2",
+    "fs": "^0.0.1-security",
+    "puppeteer": "18.0.4"
+  },
+  "author": "Colonel Wys",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wys2/tapcheat/issues"
+  },
+  "homepage": "https://github.com/Wys2/tapcheat#readme"
+}
