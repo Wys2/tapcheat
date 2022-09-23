@@ -49,3 +49,7 @@ Ouais, je vais peut-être faire une version refaite, plus efficace...
 #
 
 // **DISCLAMER : This is meant for educationnal purposes only, I would'nt be responsible for what you do with it.**
+
+
+
+*Mdrrr c'est tellement déguelasse que j'en ai honte...*
